@@ -17,7 +17,7 @@ This example comes with a complete REST API to handle Authentication and CRUD fe
 Clone the project
 
 ```bash
-  git clone https://github.com/chiragmehta900/node-typescript-boilerplate-mongoose
+  git clone https://github.com/AroojAshiq/test.git
 ```
 
 Go to the project directory
